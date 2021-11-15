@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Marin/AndroidStudioProjects/SimpleNotificationApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Marin/AndroidStudioProjects/SimpleNotificationApp/app/src/main/res/layout/layout_open.xml" value="0.25" />
+        <entry key="..\:/Users/Marin/AndroidStudioProjects/SimpleNotificationApp/app/src/main/res/layout/timer_notification.xml" value="0.25" />
       </map>
     </option>
   </component>

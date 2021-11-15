@@ -1,4 +1,4 @@
-package com.example.simplenotificationapp
+package com.example.simplenotificationapp.first
 
 import android.app.PendingIntent
 import android.content.Intent
@@ -11,6 +11,7 @@ import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
 import com.example.simplenotificationapp.BaseApplication.Companion.CHANNEL_1_ID
 import com.example.simplenotificationapp.BaseApplication.Companion.CHANNEL_2_ID
+import com.example.simplenotificationapp.R
 
 class MainActivity : AppCompatActivity() {
 
